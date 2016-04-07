@@ -1,20 +1,17 @@
 #Webpack Boilerplate
 
-A webpack boilerplate that includes the following libs:
+Minimalist webpack starter kit to get you started with SCSS, and ES6.
+
+Library included:
 
 * jQuery
-* waypoints
-* jquery.scrollto
-
-in order to quickly build up a production-ready marketing website.
+* Waypoints
 
 ###Install dependencies
 
-```
-npm install
-```
+``` npm install ```
 
-###Developing locally
+###Develop locally
 
 1. Run
 
