@@ -19,7 +19,7 @@ Library included:
 	npm run dev
 	```
 
-2. In your browser, navigate to: [http://localhost:8080/](http://localhost:8080/)
+2. In your browser, navigate to: [http://localhost:4567/](http://localhost:4567/)
 
 ###Publish
 
